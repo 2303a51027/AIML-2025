@@ -19,7 +19,7 @@
 
 
 1. [Lab 01](https://github.com/2303a51027/AIML-2025/blob/main/LAB_Assignment_01.ipynb): Introduction to Python Libraries-Numpy
-2. [Lab 02](): Implement AI Search
+2. [Lab 02](https://github.com/2303a51027/AIML-2025/blob/main/Lab_Assigment_02.ipynb): Implement AI Search
 3. [Lab 03](): Implement AI Game Strategy
 4. [Lab 04]():Implement Linear Regression model using US Housing Data
 5. [Lab 05](): Logistic Regression with Titanic Data Set
