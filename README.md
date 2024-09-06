@@ -18,7 +18,7 @@
 # Artificial Intelligence and Machine Learning Lab Jupiter Notebook
 
 
-1. [Lab 01](): Introduction to Python Libraries-Numpy
+1. [Lab 01](https://github.com/2303a51027/AIML-2025/blob/main/LAB_Assignment_01.ipynb): Introduction to Python Libraries-Numpy
 2. [Lab 02](): Implement AI Search
 3. [Lab 03](): Implement AI Game Strategy
 4. [Lab 04]():Implement Linear Regression model using US Housing Data
